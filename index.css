@@ -50,12 +50,13 @@ nav ul li a:hover{
 }
 #showcase p{
 	font-size: 20px;
+	color: white;
 }
 #showcase .button{
-	font-size: 18px;
+	font-size: 30px;
 	text-decoration: none;
 	color: yellow;
-	border: 1px red solid;
+	border: 1px #000000 solid;
 	padding: 3px 10px;
 	border-radius: 10px;
 }
